@@ -1,0 +1,22 @@
+{
+  "name": "playwright-javascript",
+  "version": "1.0.0",
+  "description": "Testing Web UI automation using playwright javascript",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/criscarlod/playwright-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/criscarlod/playwright-javascript/issues"
+  },
+  "homepage": "https://github.com/criscarlod/playwright-javascript#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.1"
+  }
+}
