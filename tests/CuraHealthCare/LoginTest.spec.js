@@ -11,4 +11,4 @@ test('User can login successfully', async ({page}) => {
     await loginPage.login('John Doe', 'ThisIsNotAPassword');
 
 
-})
+}) 
